@@ -17,4 +17,10 @@ but when I deployed this system in the countryside of china. It works much more 
 - The utm.py is about get data from RTK. Since RTK only provid me the NEMA format data. I have to format it with UTM format.
   Which is easy to use.
 - The rtk_recorder is the python script which I used to record the utm data and odometry in the same time
-- The rtk_player is sort of make the AGV running by find the closet UTM`s odometry data and seng it back 
+- The rtk_player is sort of make the AGV running by find the closet UTM~s odometry data and seng it back 
+
+
+# hardwave
+- can card is used by zlg can mini
+- RTK is a SHENZHEN provider
+![](picture/rtk.jpg)
