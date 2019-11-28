@@ -23,4 +23,4 @@ but when I deployed this system in the countryside of china. It works much more 
 # hardwave
 - can card is used by zlg can mini
 - RTK is a SHENZHEN provider
-![](picture/rtk.jpg)
+![](picture/utm.jpg)
